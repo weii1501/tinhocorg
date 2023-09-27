@@ -1,0 +1,7 @@
+<svg width='0' height='0' className='ps-absolute'>
+    <defs>
+        <clipPath id='curve' clipPathUnits='objectBoundingBox'>
+            <path d='M0,0 H1 V0.988 a0.007,0.012,0,0,1,-0.009,0.011 C0.955,0.983,0.802,0.925,0.501,0.925 C0.2,0.925,0.045,0.984,0.009,1 A0.007,0.012,0,0,1,0,0.988' />
+        </clipPath>
+    </defs>
+</svg>
